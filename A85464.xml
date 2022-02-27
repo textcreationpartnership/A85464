@@ -1,0 +1,323 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gospel grovnds; or Christ declared to be the onely treasury of all good, and the fulnesse of all, before God the Father, for true beleevers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85464</idno>
+            <idno type="STC">Wing G1313</idno>
+            <idno type="STC">Thomason E1189_6</idno>
+            <idno type="STC">ESTC R208280</idno>
+            <idno type="EEBO-CITATION">99867241</idno>
+            <idno type="PROQUEST">99867241</idno>
+            <idno type="VID">119546</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85464)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119546)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1189[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gospel grovnds; or Christ declared to be the onely treasury of all good, and the fulnesse of all, before God the Father, for true beleevers.</title>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Annotation on Thomason copy: "Octob: 3d 1644".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Devotional literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119546:1" rendition="simple:additions"/>
+            <p>GOSPEL GROVNDS; OR, CHRIST Declared to be the onely Treaſury of all Good, <hi>AND</hi> THE FULNESSE OF All, before God the Father, For true Beleevers.</p>
+            <q>
+               <bibl>Coloſſ. 1.19.</bibl>
+               <p>For it pleaſed the Father that in Him ſhould all fulneſſe dwell.</p>
+            </q>
+            <p>Printed at London.</p>
+         </div>
+         <div type="author_to_the_reader">
+            <pb facs="tcp:119546:2"/>
+            <pb facs="tcp:119546:2"/>
+            <head>To the READER.</head>
+            <p>IN honour of the glorious Goſpel of the Lord Jeſus Chriſt, and to vindicate the truth of it from the falſe and baſe aſperſions which upſtart errors, and abominable blaſphemies, and as diabolicall practiſes, as well idolatrous as prophane have caſt upon it; Theſe few Go<g ref="char:EOLhyphen"/>ſpel grounds, which are humbly preſented to every honeſt ſpirituall eye: That it may ap<g ref="char:EOLhyphen"/>peare that Goſpel knowledge is not obſcure, un<g ref="char:EOLhyphen"/>certaine, difficult, or any more cauſe of liber<g ref="char:EOLhyphen"/>ty that is wickedly taken up: then wine is of drunkenneſſe, or cloathes of pride, or meat of gluttony: Neither is it to be withheld or min<g ref="char:EOLhyphen"/>ced, or club'd down by any, leaſt it ſhould be perverted, as it were madneſſe to go naked, leaſt we ſhould be proud, or deſtroy vines, leaſt any be drunke, and to make no proviſion for food, leaſt we ſhould be gluttonous; they are partly Antydotes againſt errours, or Cordials for the comfort of ſuch as are caſt down: In which the defects call for ſupply, and the redundancies
+<pb facs="tcp:119546:3"/>for pruning, by ſome learned Scribe; onely let no advantage be taken from any miſquoted or miſ<g ref="char:EOLhyphen"/>printed Scripture: If they be good for nothing elſe, they may be profitable for young people that are to be drawn on with delight: or to ſuch as want leiſure to read larger bookes; or ſuch as are of ſhallow capacity to conceive a large tract: or for old folke, whoſe braines are dryed up, and ſo of fraile memories, one ſentence may be eaſily learned in one day: and the proofes in two more, and ſo in as many dayes as there be concluſions, all may be gotten, and the proofes in twice as many more: The Lord bleſſe them as they are intended to do good to all that are his: Amen.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:119546:3"/>
+            <head>The Goſpell Grounds.</head>
+            <p n="1">ALmightineſſe in God, and the Creatures emptineſſe in, and of themſelves, are the only ſubjects of all the holy Scriptures. <hi>Exod.</hi> 6.3. <hi>Gen.</hi> 17.1. <hi>&amp;</hi> 28.3.43.14. <hi>Pſal.</hi> 68.34.35. 2 <hi>Cor.</hi> 6.18.</p>
+            <p n="2">2 All the holy Scriptures do joyntly wit<g ref="char:EOLhyphen"/>neſſe Chriſt Gods arm to ſave, and tend to make men perfect by faith in Chriſt. <hi>Iſa.</hi> 40.10, 11. <hi>&amp;</hi> 52.10. <hi>&amp;</hi> 53.1. <hi>Joh.</hi> 5.39. 2 <hi>Tim.</hi> 3.16, 17.</p>
+            <p n="3">3 All things are to be rejected, as loſſe, and dung, for the excellency of the knowledge of God in Chriſt Jeſus. <hi>Luk.</hi> 14.26. <hi>Phil.</hi> 3.8, 9. <hi>Mat.</hi> 19.21. <hi>Mat.</hi> 10.37.</p>
+            <p n="4">4 All that profeſſe Gods free and ſupreame will, a ſure ground of beleeving; confeſſe the ſame revealed will, a ſafe rule for their living. <hi>Rom.</hi> 9.11.20.21. 1 <hi>Pet.</hi> 1.2. <hi>&amp;</hi> 2.15, 16. <hi>Rom.</hi> 12.2.</p>
+            <p n="5">5 All true beleevers are in a perfect, and everlaſting union with God in Chriſt, and one with another. <hi>Joh.</hi> 14.20. <hi>Joh.</hi> 17.21, 23. <hi>Eph.</hi> 4.16. <hi>&amp;</hi> 5.30. 1 <hi>Cor.</hi> 6.17.</p>
+            <p n="6">6 All that are actually perfect in Chriſt, do by faith reſt quietly on him, and look out for no other perfection. <hi>Heb.</hi> 4.3. <hi>Rom.</hi> 5.1, 2. <hi>Phil.</hi> 4.7. <hi>&amp;</hi> 14.17.</p>
+            <pb n="2" facs="tcp:119546:4"/>
+            <p n="7">7 All mans worthineſſe is Gods eſteem of Chriſts worthineſſe imputed to them, and of what he himſelf worketh, by his Word and Spirit. <hi>Rev.</hi> 5.9. <hi>&amp;</hi> 3.4. 1 <hi>Theſſ.</hi> 2.12. 2 <hi>Theſſ.</hi> 1.14.</p>
+            <p n="8">8 All faithfull prayers, prophecies, and pre<g ref="char:EOLhyphen"/>cepts of, and to beleevers, are as ſo many plain promiſes made unto them. <hi>Joh.</hi> 17. <hi>Pſal.</hi> 3. <hi>Eph.</hi> 4.4. <hi>Mat.</hi> 6.9. <hi>Ezek.</hi> 36.25, 37. <hi>Rom.</hi> 12.1, 2.</p>
+            <p n="9">9 A beleever is alwaies perfect before God, in Chriſt, not ſo to conſcience by faith, much leſſe by works to men. <hi>Heb.</hi> 13.8. <hi>Dan.</hi> 9.24. <hi>Rom.</hi> 14.1, 12. <hi>Lam.</hi> 3.2.</p>
+            <p n="10">10 A beleevers perfection is not abſolute by renovation, but only by imputation of Chriſts perfection. 2 <hi>Cor.</hi> 4.16. <hi>Phil.</hi> 3.12, 13. 2 <hi>Cor.</hi> 5.21. 1 <hi>Cor.</hi> 1, 30. <hi>Rom.</hi> 4.7, 8.</p>
+            <p n="11">11 A beleevers ſtay is upon Gods Almigh<g ref="char:EOLhyphen"/>tineſſe in Chriſt, in the greateſt ſtraights of the ſoreſt darkneſſe. <hi>Iſa.</hi> 26.3. <hi>Hab.</hi> 3.17. <hi>Iſa.</hi> 50.10. <hi>Mich.</hi> 7.8, 9. <hi>Pſal.</hi> 42.11.</p>
+            <p n="12">12 A beleevers ſtrength in dangerous ſtraights, is to be ſtill, and the more knowledge of God, the more quietneſſe in any triall. <hi>Pſal.</hi> 46.10. <hi>Iſa.</hi> 30.7, 15. <hi>Exod.</hi> 14.13. 2 <hi>Chron.</hi> 20.17.</p>
+            <p n="13">13 A beleevers eſtate is very happy, glori<g ref="char:EOLhyphen"/>ous, and unchangeable, yet nothing to that it ſhall be at the laſt day. <hi>Prov.</hi> 3.13. <hi>Pſal.</hi> 1.1. 1 <hi>Joh.</hi> 3.1, 2. 1 <hi>Pet.</hi> 1.3, 4, 5. <hi>Heb.</hi> 13.5, 8.</p>
+            <pb n="3" facs="tcp:119546:4"/>
+            <p n="14">14 A beleevers liberty is ſo limitleſſe in prayer, that he cannot make over bold with God for things agreeable to his will. 2 <hi>Cor.</hi> 4.17. <hi>Heb.</hi> 4.16. <hi>&amp;</hi> 10, 22. <hi>Iſa.</hi> 49.11. 1 <hi>Joh.</hi> 5.14, 15.</p>
+            <p n="15">15 As happy as every beleever is, were it onely in this life, none could be found more miſerable. 2 <hi>Cor.</hi> 4.17, 18. 1 <hi>Cor.</hi> 15.19. <hi>Heb.</hi> 11.26.</p>
+            <p n="16">16 A beleevers joy is no fleſhly, feeble, or fading joy, but a ſpirituall, full, and flowing joy. <hi>Phil.</hi> 3.3. 2 <hi>Cor.</hi> 5.12. <hi>Job</hi> 20.5. <hi>Iſa.</hi> 66.10, 11, 12.</p>
+            <p n="17">17 A beleever can accuſe himſelf of more ſin, then any; yet can excuſe himſelf of all ſin before God himſelf. 1 <hi>Cor.</hi> 2.11. <hi>Pſa.</hi> 51.1, 2, 3. <hi>Iſa.</hi> 38.14, 17. <hi>Pſa.</hi> 103.12.</p>
+            <p n="18">18 A beleever having put off himſelf, and put on the Lord Jeſus Chriſt, is as abſolutely perfect before God as Chriſt can make him. <hi>Gal.</hi> 2.19, 20. <hi>Gal.</hi> 3.25, 26. 1 <hi>Joh.</hi> 4.17. <hi>Iſa.</hi> 61.10.</p>
+            <p n="19">19 A beleever is ſo far from the love of any ſin, that for ſin, he abhors his beſt workes, and himſelf. 1 <hi>Cor.</hi> 13.6. <hi>Iſa.</hi> 64.6. <hi>Job</hi> 42.6. <hi>Eze.</hi> 36.31.</p>
+            <p n="20">20 A beleever receiveth the doctrine of re<g ref="char:EOLhyphen"/>novation as readily to glorifie God, as that of juſtification whereby God glorifies him. <hi>Rom.</hi> 6.1, 2, 3, 4. <hi>Tit.</hi> 2.12, 13, 14. 2 <hi>Cor.</hi> 7.1. 1 <hi>Pet.</hi> 2.9, 10.</p>
+            <pb n="4" facs="tcp:119546:5"/>
+            <p n="21">21 Beleevers are ſaved already, though ſal<g ref="char:EOLhyphen"/>vation appeare not as it is, till the laſt and great day. <hi>Eph.</hi> 2.8. 2 <hi>Tim.</hi> 1.9. 1 <hi>Pet.</hi> 1.9.</p>
+            <p n="22">22 Beleevers, though ſimple, weak, and no<g ref="char:EOLhyphen"/>thing to themſelves, or others, are the wiſeſt, ſtrongeſt, and moſt excellent perſons in the world. 1 <hi>Cor.</hi> 1.26, 27, 28. 2 <hi>Cor.</hi> 12.10. <hi>Pro.</hi> 12.26. <hi>Pſal.</hi> 16.3.</p>
+            <p n="23">23 Beleevers and their ſins, are not one thing: but ſin in them is far diſtant from them to faith. <hi>Rom.</hi> 7.17.21. <hi>Pſal.</hi> 103.12.</p>
+            <p n="24">24 Beleevers do not any evils, they ſeem to do: but ſin with them only doth all that is ſo done. <hi>Rom.</hi> 7.20, 31. 1 <hi>Joh.</hi> 3.6, 7, 9.</p>
+            <p n="25">25 Beleevers, how ever it ſeem, do alwaies grow in faith, and love and anſwerable fruits. <hi>Pſal.</hi> 92.12. <hi>Job</hi> 17.9. <hi>Pſal.</hi> 22.1. <hi>Judg.</hi> 5.31.</p>
+            <p n="26">26 Beleevers are not exhorted to duties be<g ref="char:EOLhyphen"/>cauſe they can do more then others, but God worketh ſo in them, not in others. <hi>Tit.</hi> 3.8. <hi>Phil.</hi> 2.12, 13. <hi>Iſa.</hi> 26.12. 2 <hi>Cor.</hi> 3.5.</p>
+            <p n="27">27 Beleevers perſons are pleaſing to God in Chriſts only perſon: their works as they are Gods pleaſure done in them. <hi>Mat.</hi> 3.17. <hi>Heb.</hi> 13.21. 2 <hi>Theſ.</hi> 1.11. <hi>Pſal.</hi> 135.6.</p>
+            <p n="28">28 Beleevers are moſt made and built up when they do apprehend themſelves in them<g ref="char:EOLhyphen"/>ſelves moſt caſt down and undone. <hi>Iſa.</hi> 6.5, 6. <hi>Job</hi> 40.4, 5. <hi>&amp;</hi> 42.5, 6. <hi>Luke</hi> 5.8.</p>
+            <p n="29">29 Beleevers cannot loath themſelves, nor
+<pb n="5" facs="tcp:119546:5"/>love Chriſt enough in themſelves all their dayes. <hi>Ezek.</hi> 6.9, 10. <hi>Gal.</hi> 2.20. <hi>Phil.</hi> 3.3, 4, 8, 9. 1 <hi>Cor.</hi> 16.22. <hi>Mat.</hi> 22.37.</p>
+            <p n="30">30 Beleevers have much more cauſe of joy in Chriſt, then they ever had, or may have of ſorrow in <hi>Adam.</hi> 1 <hi>Cor.</hi> 15.22. <hi>Rom.</hi> 5.10, 12, 13, 14, 15, 16. 1 <hi>Cor.</hi> 15.45.</p>
+            <p n="31">31 Beleevers cannot be prevailed againſt for hurt, by all the policy, and powers of hell. <hi>Mat.</hi> 16.18. <hi>&amp;</hi> 7.24, 25. <hi>Rom.</hi> 8.28.</p>
+            <p n="32">32 Beleevers are ſimply in all things to do Gods revealed will, without any further que<g ref="char:EOLhyphen"/>ſtion. <hi>Deut.</hi> 29.29. <hi>&amp;</hi> 12.32. <hi>Joh.</hi> 6.28, 29. <hi>Phil.</hi> 2.14. <hi>Gal.</hi> 1.16.</p>
+            <p n="33">33 Beleevers and Gods Ordinances being mutually diſpoſed one for another, God ſo leads them on to perfection. 1 <hi>Cor.</hi> 3.1. <hi>Heb.</hi> 5.12, 13, 14. <hi>&amp;</hi> 6.1, 2. 1 <hi>Cor.</hi> 11.29. <hi>Phil.</hi> 3 16, 17. <hi>Acts</hi> 20.20, 27, 32.</p>
+            <p n="34">34 Beleevers are never the more juſt before God, for their own integrity, nor the leſſe juſt for their iniquity. <hi>Rom.</hi> 4.2, 5. <hi>Rom.</hi> 3.28. <hi>Iſa.</hi> 38.14, 17.</p>
+            <p n="35">35 Cauſeleſſe ſuſpition, or contempt of a Goſpel miniſtery bewrayes ignorance of the Goſpel, or malice againſt it. <hi>Luke</hi> 7.39. 2 <hi>Cor.</hi> 13.3, 4, 5, 6. 1 <hi>Cor.</hi> 13.5. <hi>Act.</hi> 17.18.</p>
+            <p n="36">36 Chriſtians, whoſe care is caſt wholly on God, are the choiſeſt beleevers, for ſuch are not negligent in the uſe of lawfull means. 1 <hi>Pet.</hi> 5.7. <hi>Phil.</hi> 4.6. <hi>Act.</hi> 27.25, 31.</p>
+            <pb n="6" facs="tcp:119546:6"/>
+            <p n="37">37 Cenſured beleevers ſhall be judges of their impenitent cenſurers at the great day. 1 <hi>Cor.</hi> 6.1, 2, 3. <hi>Jude</hi> 14.15. <hi>Rev.</hi> 20.11.</p>
+            <p n="38">38 Chriſt crucified is the only ſubject of all Goſpell preaching, other doctrine is not to be received by beleevers. 1 <hi>Cor.</hi> 1.23. <hi>&amp;</hi> 2.2. <hi>&amp;</hi> 9.16. 2 <hi>Cor.</hi> 4.5. 2 <hi>Joh.</hi> 9.10, 11.</p>
+            <p n="39">39 Chriſt firſt, then a beleever in Chriſt, is the perſon to whom all promiſes of happi<g ref="char:EOLhyphen"/>neſſe do belong. <hi>Pſal.</hi> 1.1, 2. <hi>&amp;</hi> 119.1, 2. <hi>Pro.</hi> 3.13. <hi>Iſa.</hi> 33.15, 16. <hi>Mat.</hi> 5.3. <hi>Gal.</hi> 3.16.</p>
+            <p n="40">40 Chriſt only is the end of all Laws, the hiding place from all threats; and the dore of all promiſes to beleevers. <hi>Rom.</hi> 10.4. <hi>Iſa.</hi> 32.2. 2 <hi>Cor.</hi> 1.20. <hi>Gal.</hi> 3.16.</p>
+            <p n="42">42 Chriſts birth, blood, death, and righte<g ref="char:EOLhyphen"/>ouſneſſe are Almighty, by the perſonall union of both natures in Chriſt. <hi>Luk.</hi> 2.10, 11. <hi>Act.</hi> 20.28. 1 <hi>Joh.</hi> 3.16. 2 <hi>Cor.</hi> 5.21. <hi>Joh.</hi> 1.14.</p>
+            <p n="43">43 Chriſt only is the common treaſury of all good, and the fulneſſe of all before God to true beleevers. <hi>Col.</hi> 2.3.9, 10. <hi>Col.</hi> 1.19. <hi>&amp;</hi> 3.11. 1 <hi>Cor.</hi> 1.30. <hi>Joh.</hi> 1.14, 16.</p>
+            <p n="44">44 Chriſt knew no ſin, yet was for us made not only a ſacrifice, but ſin; and we that ſo beleeve, are made Gods righteouſneſſe in him. 2 <hi>Cor.</hi> 5.21. <hi>Gal.</hi> 3.10, 11, 12. <hi>Iſa.</hi> 53.6.</p>
+            <p n="45">45 Doubtfull diſputations are to be avoid<g ref="char:EOLhyphen"/>ed in the preſence of the weak, leſt they be ei<g ref="char:EOLhyphen"/>ther offended, or inſnared. <hi>Rom.</hi> 14.1, 2. <hi>Rom.</hi> 15.12. 1 <hi>Tim.</hi> 1.4. <hi>&amp;</hi> 6.4, 20.</p>
+            <pb n="7" facs="tcp:119546:6"/>
+            <p n="46">46 Doubtings of Gods favour yeelded un<g ref="char:EOLhyphen"/>to by the faithfull after new ſins, are greater added to leſſer evils. <hi>Mat.</hi> 14.30, 31. <hi>Heb.</hi> 2.1, 2, 3. 1 <hi>Joh.</hi> 5.10. <hi>Gen.</hi> 4.13.</p>
+            <p n="47">47 Evill is as burdenſome to beleevers, as good is to unbeleevers, ſeeing they are both out of their rode way. 1 <hi>Cor.</hi> 13.6. <hi>Rom.</hi> 7.24. <hi>Amos</hi> 8.4, 5. <hi>Gal.</hi> 5.17.</p>
+            <p n="48">48 Faith, and love, with their attendants, are not gotten by our own induſtry, nor with<g ref="char:EOLhyphen"/>out it. <hi>Pſal.</hi> 10.17. <hi>Ezek.</hi> 36.25, 37. <hi>Eph.</hi> 2.8. <hi>Rom.</hi> 5.5.</p>
+            <p n="49">49 Faith is hard, yea, impoſſible for man to get, but poſſible, and as eaſie for God to give. <hi>Mat.</hi> 7.13. <hi>Luk.</hi> 18.24, 27. <hi>Phil.</hi> 1.29.</p>
+            <p n="50">50 Faith is not founded on our works, yet is the only ready way to all powerfull perfor<g ref="char:EOLhyphen"/>mances. <hi>Gal.</hi> 5.6. <hi>Eph.</hi> 2.20. 1 <hi>Cor.</hi> 3.11. <hi>Tit.</hi> 3.8. 2 <hi>Cor.</hi> 4.13.</p>
+            <p n="51">51 Faith is the only evidence of ſalvation to our ſelves, works do ſhew our faith to o<g ref="char:EOLhyphen"/>thers. <hi>Heb.</hi> 11.1. 1 <hi>Joh.</hi> 5.10. <hi>Jam.</hi> 2.18.</p>
+            <p n="52">52 Faith maketh the hardeſt duties eaſie, maſtreth the ſtrongeſt luſts, wanquiſheth De<g ref="char:EOLhyphen"/>vils. <hi>Luk.</hi> 17.3, 4, 5. <hi>Gal.</hi> 5.24. <hi>Eph.</hi> 6.16.</p>
+            <p n="53">53 Faith maketh Gods power ours, and all our enemies Gods adverſaries. 1 <hi>Pet.</hi> 1.4, 5. <hi>Act.</hi> 9.5. <hi>Mat.</hi> 25.44, 45.</p>
+            <p n="54">54 Goſpel precepts are creating injuncti<g ref="char:EOLhyphen"/>ons, as ſoon obeyed as injoyned, when, and by
+<pb n="8" facs="tcp:119546:7"/>whom the commander pleaſeth, <hi>Gen.</hi> 1.3. 2 <hi>Cor.</hi> 46. <hi>Eze.</hi> 2.1, 2. <hi>Joh.</hi> 20.27, 28. <hi>Eſa</hi> 44.26, 27. <hi>Deut.</hi> 33.27. <hi>Dan.</hi> 10.8.</p>
+            <p n="55">55 Goſpel arguments to worke of ſancti<g ref="char:EOLhyphen"/>fication weaken not, but confirme and ſtreng<g ref="char:EOLhyphen"/>then beleevers in faith and love. <hi>Cor.</hi> 10.8. <hi>&amp;</hi> 13.10. 1 <hi>Pet.</hi> 1.3, 4. <hi>&amp;</hi> 2.12.2, 3.</p>
+            <p n="56">56 Goſpel exhortations are no rods; but hearty incouragements to beleevers in all per<g ref="char:EOLhyphen"/>formances. <hi>Joſ.</hi> 1.2, 3, 4, 9. <hi>Heb.</hi> 12.1.5. <hi>&amp;</hi> 13.22. 1 <hi>Cor.</hi> 14.3. <hi>Paracleſin.</hi>
+            </p>
+            <p n="57">57 Gods works are everlaſtingly unchange<g ref="char:EOLhyphen"/>able, not to be added to, or at all diminiſhed by any creature. <hi>Eccleſ.</hi> 3.14. <hi>Iſa.</hi> 46.9, 10. <hi>Dan.</hi> 4.35. <hi>Iſa.</hi> 14.24, 25.</p>
+            <p n="58">58 Gods eternall decree is not croſſed, but only diſcovered by the execution, ſeeming ne<g ref="char:EOLhyphen"/>ver ſo ſtrange. <hi>Act.</hi> 2.23. <hi>&amp;</hi> 3.18. <hi>Act.</hi> 4.27, 28.</p>
+            <p n="59">59 Gods ſaving purpoſe free from all cauſes but his own pleaſure, was to ſave none but by faith in Chriſt. <hi>Eph.</hi> 1.4, 5. 1 <hi>Cor.</hi> 8.6, 7.</p>
+            <p n="60">60 Gods elect ever beloved of God, are yet by ſinne truly Gods enemies, till Gods love be declared by faith in Chriſt. <hi>Rom.</hi> 8.30. <hi>&amp;</hi> 10.14, 17. <hi>Rom.</hi> 8.16. <hi>Iſa.</hi> 59.21. <hi>Jer.</hi> 31.3. <hi>Rom.</hi> 5.10.</p>
+            <p n="61">61 Gods al-ſufficient grace is not loſt, nor leſſened by the ſinnes of the faithfull, but commended, illuſtrated, and magnified. 2 <hi>Cor.</hi> 12.8, 9, 10. <hi>Pſa.</hi> 51.3. <hi>Rom.</hi> 3.3, 4, 5. <hi>Rom.</hi> 5.20.</p>
+            <pb n="9" facs="tcp:119546:7"/>
+            <p n="62">62 Gods way is the ſafeſt way, though known to none but ſuch onely as he himſelfe teacheth. <hi>Iſa.</hi> 54.13. <hi>Pſa.</hi> 86.11. <hi>Iſa.</hi> 35.8.</p>
+            <p n="63">63 Gods image more manifeſtly appeareth in all beleevers, as they are more inlightened to behold Gods image in Chriſt. 2 <hi>Cor.</hi> 3.18. <hi>&amp;</hi> 4.4, 6. <hi>Phil.</hi> 3.10. 1 <hi>Joh.</hi> 3.2.</p>
+            <p n="64">64 God is moſt glorified, when moſt joy<g ref="char:EOLhyphen"/>fully ſought and confidently relied upon for all his free promiſes. <hi>Iſa.</hi> 56.7. <hi>Heb.</hi> 4.16. 2 <hi>Cor.</hi> 5.6, 8. <hi>Rom.</hi> 4.20, 21.</p>
+            <p n="65">65 Good or evil acts make no man good or evil; but by ſome circumſtances do manifeſt what men are. <hi>Mat.</hi> 7.17, 18<g ref="char:punc">▪</g> 2 <hi>Sam.</hi> 11.4.</p>
+            <p n="66">66 Greateſt confidence in God through Chriſt, is attended with greateſt love &amp; obedi<g ref="char:EOLhyphen"/>ence to God. 2 <hi>Cor.</hi> 5.6, 7, 8, 9, 11. 1 <hi>Cor.</hi> 15.10.</p>
+            <p n="67">67 Growth in grace and the knowledge of Jeſus Chriſt is the only powerfull way to ſpi<g ref="char:EOLhyphen"/>rituall ſtedfaſtneſſe. 2 <hi>Pet.</hi> 3.17, 18. <hi>Heb.</hi> 6.1, 2, 3. <hi>Eph.</hi> 4.12, 13, 14.</p>
+            <p n="68">68 He onely is worthy of a Goſpel Mini<g ref="char:EOLhyphen"/>ſtery which receives the Goſpel for its own ſake againſt all oppoſition. <hi>Mat.</hi> 10.11, 12, 37, 38. <hi>Luk.</hi> 3.5, 6. <hi>Mat.</hi> 8.8, 9.</p>
+            <p n="69">69 Hearty hoſpitality is diſcernable by un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſiſtable expreſſions of fervent love in the en<g ref="char:EOLhyphen"/>tertainment of friends, or ſtrangers, <hi>Gen.</hi> 19.2, 3. <hi>Judg.</hi> 19.5, 6, 7, 20, 21. <hi>Luk.</hi> 24.28, 29. 3. <hi>John</hi> 5.</p>
+            <pb n="10" facs="tcp:119546:8"/>
+            <p n="70">70 Increaſe of mortification, and renova<g ref="char:EOLhyphen"/>tion in believers ariſeth from their growth in the knowledge of Jeſus Chriſt. <hi>Phil.</hi> 3.10. <hi>Col.</hi> 3.1, 2, 5, 10. 1 <hi>Joh.</hi> 3.2.</p>
+            <p n="71">71 It is not good to dig up the buried faults of the faithfull, but men of fouleſt lives are moſt buſie with beleevers blemiſhes. <hi>Gen.</hi> 9.22. 1 <hi>Pet.</hi> 4.8. <hi>Mat.</hi> 7.5. 2 <hi>Sam.</hi> 16.5, 7. <hi>Joh.</hi> 12.4<g ref="char:punc">▪</g>5, 6.</p>
+            <p n="72">72 Knowledge of the Goſpel increaſeth a<g ref="char:EOLhyphen"/>bundantly by diſperſing it liberally. <hi>Pro.</hi> 11.24, 25. <hi>Gen.</hi> 18.17, 18. <hi>Mat.</hi> 25.20. 2 <hi>Cor.</hi> 9.6.</p>
+            <p n="73">73 Man is ſaid to do only as the created ſubject wherein, or the formed inſtrument wherewith any thing is done. <hi>Phil.</hi> 2.13. <hi>Iſa.</hi> 26.12. <hi>&amp;</hi> 10.5, 15.</p>
+            <p n="74">74 Man falleth from God by going out from him, to the creature; and riſeth by re<g ref="char:EOLhyphen"/>turning to God by faith in Chriſt. <hi>Gen.</hi> 3.6, 7. 2 <hi>Cor.</hi> 10.4, 5. <hi>Mat.</hi> 16.24. 2 <hi>Cor.</hi> 3.5. <hi>Luk.</hi> 14.26, 27.</p>
+            <p n="75">75 Mans renewed perfection in his ex<g ref="char:EOLhyphen"/>pectance of all good from God, and ability to glorify God for all good renewed. <hi>Rom.</hi> 11.36, 1 <hi>Cor.</hi> 10.31. <hi>Jer.</hi> 9.23, 24.</p>
+            <p n="76">76 Many ſpeak ſeemingly well, but to do good, or to ſpeake well indeed they are altoge<g ref="char:EOLhyphen"/>ther to ſeek. <hi>Mat.</hi> 7.21. <hi>Jer.</hi> 7.4. <hi>Mat.</hi> 23.5. <hi>Mat.</hi> 12.33, 34.</p>
+            <p n="77">77 Meditation of the Goſpell, together
+<pb n="11" facs="tcp:119546:8"/>with ſelf reſignation wholly to it, is the way by which God teacheth to profit by it. 1 <hi>Tim.</hi> 4.15. <hi>Pſa.</hi> 1.2. <hi>&amp;</hi> 119.11. <hi>Iſa</hi> 48.17.</p>
+            <p n="78">78 New heavens and a new earth ſhall be created of God for the everlaſting happy ha<g ref="char:EOLhyphen"/>bitation of beleevers. <hi>Iſa.</hi> 65.17. 2 <hi>Pet.</hi> 3.13. <hi>Revel.</hi> 21.1, 2.</p>
+            <p n="79">79 No man ſeeing his ſinfulneſſe, can be<g ref="char:EOLhyphen"/>lieve too ſoone, or be over confident of Gods free love in Chriſt. <hi>Rom.</hi> 4.5. <hi>Pſal.</hi> 95.7. <hi>Heb.</hi> 3.7, 15. 2 <hi>Cor.</hi> 5.6, 8. <hi>Rom.</hi> 4.19, 20.</p>
+            <p n="80">80 None but prepared ones will take Chriſt, yet is no preparation to be forced on any as mans work in any ſence. <hi>Iſa.</hi> 61.1, 2. <hi>Act.</hi> 16.31. <hi>&amp;</hi> 8.37. <hi>Mat.</hi> 9.23.</p>
+            <p n="81">81 Nothing is procured by prayer beſides Gods purpoſe, beleevers are by it only fitted to receive Gods gifts. <hi>Iſa.</hi> 46.9, 10. 2 <hi>Chron.</hi> 20.12, 17. <hi>Act.</hi> 12. <hi>Ezek.</hi> 36.25, 37.</p>
+            <p n="82">82 Perfection is only in God, who being ſimply and univerſally perfect, performeth all things perfectly. <hi>Mat.</hi> 5.48. <hi>Deut.</hi> 32.4. <hi>Pſal.</hi> 18.30.</p>
+            <p n="83">83 Perfection is required of the creature to bring it back to the Creator by Chriſt. <hi>Mat.</hi> 5.48. 2 <hi>Cor.</hi> 13.11. <hi>Ecleſ.</hi> 7.29.</p>
+            <p n="84">84 Philoſophicall ſubtilties are to be avoi<g ref="char:EOLhyphen"/>ded, and plaine ſimplicity to be onely uſed in the publication, and profeſſion of the Goſpel. <hi>Col.</hi> 2.8. 2 <hi>Cor.</hi> 1.12, <hi>&amp;</hi> 11.3. <hi>&amp;</hi> 4.2.</p>
+            <pb n="12" facs="tcp:119546:9"/>
+            <p n="85">85 Preaching is the only ordinary way of publiſhing the Goſpell: to beget and perfect faith, and love. <hi>Rom.</hi> 1.15, 16. <hi>&amp;</hi> 10.8, 14, 17. <hi>Gal.</hi> 3.1, 2.</p>
+            <p n="86">86 Quenching the Spirit is prevented and Apoſtacy, by dehortations from it, and admo<g ref="char:EOLhyphen"/>nitions againſt it. 1 <hi>Theſſ.</hi> 5.19. 2 <hi>Tim.</hi> 1.6, 7. <hi>Heb.</hi> 12.15, 16.</p>
+            <p n="87">87 Regeneration is a new Creation, in which man doth no more then the world did at firſt in creating it ſelfe. 2 <hi>Cor.</hi> 5.17. <hi>Eph.</hi> 2.10. <hi>Gal.</hi> 6.15. 2 <hi>Cor.</hi> 5.5. <hi>Joh.</hi> 3.3, 5. <hi>Act.</hi> 11.18. <hi>Eph.</hi> 2.8.</p>
+            <p n="88">88 Such as were never at a ſtand about Goſpell knowledge, know not what the Go<g ref="char:EOLhyphen"/>ſpell is. <hi>Jer.</hi> 6.16. <hi>Iſa.</hi> 6.5. <hi>Act.</hi> 2.37. <hi>&amp;</hi> 8.31.</p>
+            <p n="89">89 Such as reſt ſatisfied with any meaſure of Goſpell knowledge, know it not truly in a<g ref="char:EOLhyphen"/>ny meaſure. 1 <hi>Cor.</hi> 8.2. <hi>Eph.</hi> 1.18. <hi>&amp;</hi> 3.18, 19.</p>
+            <p n="90">90 Such as are moſt acquainted with the Goſpell, deſire nothing ſo much as the increaſe thereof. <hi>Phil.</hi> 3.9, 10. <hi>Joh.</hi> 6.34. 2 <hi>Pet.</hi> 3.18. <hi>Act.</hi> 13.42.</p>
+            <p n="91">91 Salvation by Chriſt containeth in it all the promiſes of God made to beleevers in the Scriptures. <hi>Mar.</hi> 16.16. <hi>Joh.</hi> 4.22. <hi>Iſa.</hi> 49.6. 1 <hi>Pet.</hi> 1.5.</p>
+            <p n="92">92 Sin is not ſo far from any, as from thoſe to whom it ſeemeth to be moſt neer. <hi>Pſal.</hi> 51.3, 4, 9, 10, 13. <hi>Rom.</hi> 7.24. <hi>Iſa.</hi> 18.14, 17.</p>
+            <pb n="13" facs="tcp:119546:9"/>
+            <p n="93">93 Sudden ſadneſſe free from ſickneſſe, be<g ref="char:EOLhyphen"/>wrayes evil purpoſes in the wicked; ſorrow or temptations in the faithfull. <hi>Gen.</hi> 4.4, 5, 6. 1 <hi>Kin.</hi> 21.3, 4. <hi>Neh.</hi> 2.1. <hi>Pſ.</hi> 42.11. <hi>Mat.</hi> 26.37.</p>
+            <p n="94">94 The Goſpel is a joyfull Revelation of Gods worke in Chriſt to ſave elect ſinners, and of the worke of his ſpirit in the ſaved. <hi>Rom.</hi> 16.25. <hi>Luk.</hi> 2.10. 2 <hi>Cor.</hi> 5.19. <hi>Rom.</hi> 8.30. <hi>Gal.</hi> 5.22. 2 <hi>Cor.</hi> 3.18.</p>
+            <p n="95">95 The Goſpel is the Almighty word of Gods grace able to beget, and build up, all that are begotten. <hi>Rom.</hi> 1.16. 1 <hi>Cor.</hi> 4.15. <hi>Act.</hi> 20.32.</p>
+            <p n="96">96 The Goſpel is a doctrine of liberty, not to the fleſh, nor ſo wilfully abuſed by any but very Reprobates. <hi>Gal.</hi> 5.1, 13. <hi>Jud.</hi> 4. 1 <hi>Pet.</hi> 2.8.</p>
+            <p n="97">97 The Goſpel is not to be hidden but open<g ref="char:EOLhyphen"/>ly preached to every creature; but ſuch as ob<g ref="char:EOLhyphen"/>ſtinately put it from them. <hi>Mar.</hi> 16.15. 2 <hi>Cor.</hi> 4.2, 3. <hi>Act.</hi> 13.45, 46.</p>
+            <p n="98">98 The Goſpel is a transforming doctrine, though the change appear not in all alike, for time, manner, or meaſure. <hi>Eſ.</hi> 11.6, 7, 8, 9. 1 <hi>Joh.</hi> 2.12, 13. <hi>Act.</hi> 8. <hi>&amp;</hi> 16. 1 <hi>Theſ.</hi> 1.5.</p>
+            <p n="99">99 The Goſpel, though dark, hard, a fooliſh<g ref="char:EOLhyphen"/>neſſe to many, is plaine, eaſie, and excellent to beleevers. 1 <hi>Cor.</hi> 2.7, 14. <hi>Joh.</hi> 6.60. 1 <hi>Cor.</hi> 8.23. 2 <hi>Cor.</hi> 4.2. <hi>Eſa.</hi> 35.8. 1 <hi>Tim.</hi> 1.11.</p>
+            <p n="100">100 The Goſpel is not ordinarily revealed
+<pb n="14" facs="tcp:119546:10"/>to any at once, but as men are inlarged by the Revealer. <hi>Mat.</hi> 16.17. 2 <hi>Cor.</hi> 6.11, 12.</p>
+            <p n="101">101 The Goſpel is not truly beleeved by ſuch as receive not the doctrine of renovation by it. <hi>Tit.</hi> 2.12, 13, 14. <hi>Rom.</hi> 12.1, 2. <hi>Eph.</hi> 4.18, 19, 20.</p>
+            <p n="102">102 The Goſpel is perverted, when weak ones are terrified and not comforted, and con<g ref="char:EOLhyphen"/>firmed by it. <hi>Iſa.</hi> 29.20. <hi>&amp;</hi> 35.3, 4.</p>
+            <p n="103">103 The Goſpel is not the Law, nor the Law the Goſpel, but they are to be deſtingui<g ref="char:EOLhyphen"/>ſhed by beleevers. 2 <hi>Cor.</hi> 3.6, 7. <hi>Gal.</hi> 3.12, 13. <hi>Joh.</hi> 1.17.</p>
+            <p n="104">104 The Goſpel fewer in words, is farre greater then the Law in powerfull, and glo<g ref="char:EOLhyphen"/>rious adminiſtration. 1 <hi>Tim.</hi> 1.11, 15. 2 <hi>Cor.</hi> 3.6, 7, 8, 9. 2 <hi>Cor.</hi> 4.1, 2.</p>
+            <p n="105">105 The Miniſters of the Goſpel are moſt jealous leaſt peoples affections be withdrawn from Chriſt to themſelves. 2 <hi>Cor.</hi> 11.3, 2. 2 <hi>Cor.</hi> 12.6. <hi>Rev.</hi> 22.8, 9.</p>
+            <p n="106">106 The more men know they excell in learning and natural parts, the further they are off from the true knowledge of the Goſpel. <hi>Mat.</hi> 11.25, 26. 1 <hi>Cor.</hi> 2.6, 7. <hi>&amp;</hi> 3.18.</p>
+            <p n="107">107 The Law revealeth ſin, ſhewing what man was, and is not; ſhould do to life but can never. <hi>Rom.</hi> 3.19, 20. <hi>&amp;</hi> 5.20. <hi>&amp;</hi> 10.5. <hi>Deut.</hi> 5.29.</p>
+            <p n="108">108 The Law is a rule of life to beleevers
+<pb n="15" facs="tcp:119546:10"/>not from the letter without, but from love within. <hi>Joh.</hi> 14.13. <hi>Rom.</hi> 7.6.</p>
+            <p n="109">109 The Law hath nothing at all to do with believers, but they have moſt of all other to do with it. 1 <hi>Tim.</hi> 1.9, 10. <hi>Rom.</hi> 6.14. <hi>&amp;</hi> 3.31.</p>
+            <p n="110">110 The Law of faith is the Law of a belee<g ref="char:EOLhyphen"/>vers minde, not <hi>Moſes</hi> Law, but Chriſts. <hi>Rom.</hi> 3.2, 7. <hi>&amp;</hi> 7.25. <hi>Jam.</hi> 2.8. <hi>Gal.</hi> 6.2.</p>
+            <p n="111">111 The Law of faith receiveth Chriſt and his fulneſſe for our ſelves, and like power to expreſſe the ſame to others. <hi>Rom.</hi> 6.1, 2. <hi>&amp;</hi> 3.27. <hi>&amp;</hi> 8.34.</p>
+            <p n="112">112 The Law is not uſed in preaching law<g ref="char:EOLhyphen"/>fully if not alwayes with the Goſpel, and one<g ref="char:EOLhyphen"/>ly for the Goſpels ſake. 1 <hi>Tim.</hi> 1.6, 7, 9, 10. <hi>Rom.</hi> 6.14. <hi>&amp;</hi> 10.4. <hi>&amp;</hi> 3.31.</p>
+            <p n="113">113 The new Covenant is everlaſtingly un<g ref="char:EOLhyphen"/>changeable, ſeeing it is founded only on Gods free promiſes, who is unchangeable. <hi>Jer.</hi> 31.3. <hi>Dan.</hi> 9.24. <hi>Heb.</hi> 6.18, 19. <hi>Jer.</hi> 31.33, 34. <hi>&amp;</hi> 32.39, 40, 41. <hi>Heb.</hi> 8.9.</p>
+            <p n="114">114 That which they moſt greedily deſire, they do leaſt need, and want moſt what they leaſt inquire for. <hi>Mat.</hi> 16. <hi>&amp;</hi> 21. <hi>&amp;</hi> 18.1, 2, 3. <hi>Act.</hi> 1.6. <hi>Joh.</hi> 6.47. <hi>&amp;</hi> 55.2.</p>
+            <p n="115">115 The true knowledge and love of God and the like in us, do ſlow from Gods know<g ref="char:EOLhyphen"/>ledge and love of us. <hi>Gal.</hi> 4.9, 10. 1 <hi>Joh.</hi> 4.19.</p>
+            <p n="116">116 Things moſt ſecret done by men or An<g ref="char:EOLhyphen"/>gels ſhal be publikely, and punctually revealed
+<pb n="16" facs="tcp:119546:11"/>at the great day. 1 <hi>Cor.</hi> 4.5. <hi>Ma.</hi> 12.36, 37.</p>
+            <p n="117">117 The ſtanding of unbeleevers is ſlippery, and being under wrath, the ſpirit that is in them will pull them down. <hi>Pſa.</hi> 73.18. <hi>Eph.</hi> 2.2, 3. <hi>Mat.</hi> 8.31, 32.</p>
+            <p n="118">118 The excellency of a beleever in this life is beyond all manner of expreſſion, and com<g ref="char:EOLhyphen"/>prehenſion. 2 <hi>Cor.</hi> 12.4, 5. <hi>Ephe.</hi> 3.18. 1 <hi>Joh.</hi> 3.1.</p>
+            <p n="119">119 The glorious joy of a beleever would be alwayes unſpeakable, did he alwayes appre<g ref="char:EOLhyphen"/>hend his happineſſe. 1 <hi>Pet.</hi> 1.3, 8. <hi>Rom.</hi> 5.1, 2, 11. 1 <hi>Theſ.</hi> 5.16. 2 <hi>Theſ.</hi> 2.16.</p>
+            <p n="120">120 The ordinances of preaching, reading prayer, Sacraments do ſtrengthen the joyfull remembrance of Chriſt in believers. <hi>Luk.</hi> 11.28. 2 <hi>Pet.</hi> 1.12, 13. <hi>&amp;</hi> 2.1, 2. 1 <hi>Cor.</hi> 11.24. 1 <hi>Cor.</hi> 15.2, 3.</p>
+            <p n="121">121 The imputed perfection of beleevers is all alike here, and their glorification hath no ground of difference. <hi>Phil.</hi> 3.21. <hi>Rom.</hi> 6.23. <hi>Mat.</hi> 13.43. <hi>Pſal.</hi> 16.3. <hi>Rom.</hi> 4.7, 8. <hi>Mat.</hi> 20.9, 10.</p>
+            <p n="122">122 The more ungodlineſſe is ſeen, and known, the more hatefull it becomes to true beleevers. <hi>Rom.</hi> 5.20. <hi>Ezech.</hi> 6.62.</p>
+            <p n="123">123 The ſpirituall ſight of ſins ſinfulneſſe, is only in thoſe that are free from ſins domini<g ref="char:EOLhyphen"/>on. <hi>Rom.</hi> 6.11, 12. <hi>&amp;</hi> 7.7, 13, 22, 25.</p>
+            <p n="124">124 The beſt preparation for Chriſt is to
+<pb n="17" facs="tcp:119546:11"/>ſee in our ſelves no preparation for Chriſt at all. <hi>Mat.</hi> 8.8. <hi>Luk.</hi> 5.8. <hi>Iſa.</hi> 6.5.</p>
+            <p n="125">125 The more faith, the more humility and courage in the believer. <hi>Mat.</hi> 8.8. <hi>&amp;</hi> 15.27. <hi>Eph.</hi> 3.8. <hi>Prov.</hi> 28.1.</p>
+            <p n="126">126 The preſent heavens and earth ſhall be on fire, and burne perpetually for the perditi<g ref="char:EOLhyphen"/>on of ungodly men. 2 <hi>Pet.</hi> 3.7. <hi>Mal.</hi> 4.1. <hi>Mat.</hi> 13.42, 50. <hi>Iſa.</hi> 34.1, 9, 10.</p>
+            <p n="127">127 The day of judgement ſhall be no uſuall day, of ſo many hours, but a great day for the great things then to be done. <hi>Rev.</hi> 10.6. <hi>&amp;</hi> 6.17. <hi>Zeph.</hi> 1.14. <hi>Act.</hi> 17.31. <hi>Rom.</hi> 2.16. <hi>Zach.</hi> 14.8. <hi>Mal.</hi> 4.1.</p>
+            <p n="128">128 That interpretation of Scriptures, ought to be rejected as private which agreeth not with other Scriptures. 2 <hi>Pet.</hi> 1.20, 21. <hi>Act.</hi> 10.43. <hi>&amp;</hi> 3.21, 22.</p>
+            <p n="129">129 Things ſimply neceſſary to ſalvation, may be plainly read in the very letter of the Scriptures by beleevers. 2 <hi>Cor.</hi> 1.13. <hi>&amp;</hi> 4.2. <hi>Pro.</hi> 8.9. <hi>Pſa.</hi> 19.7, 8.</p>
+            <p n="130">130 The abſolute depth of Sciptures ſence our apprehenſions at beſt are too ſhallow to reach here. <hi>Rom.</hi> 11.34. 1 <hi>Cor.</hi> 2.10. <hi>Eph.</hi> 1.18. <hi>&amp;</hi> 3.18, 19.</p>
+            <p n="131">131 That interpretation of any darke place that croſſeth a more plain is falſe, and to be ut<g ref="char:EOLhyphen"/>terly refuſed. <hi>Pro.</hi> 2.15. <hi>&amp;</hi> 8.8, 9. <hi>Iſa.</hi> 59.8.</p>
+            <p n="132">132 The Scriptures that ſpeake of men
+<pb n="18" facs="tcp:119546:12"/>barely are uſually to be underſtood of unbe<g ref="char:EOLhyphen"/>leevers. <hi>Gen.</hi> 6.2. <hi>Mat.</hi> 10.22. <hi>&amp;</hi> 12.36. <hi>&amp;</hi> 5.11. 1 <hi>Tim.</hi> 5.24.</p>
+            <p n="133">133 That which is moſt abundantly preſſed in Scriptures is moſt hardly beleeved and of greateſt conſequence to be obſerved. <hi>Eſa</hi> 53.1. <hi>Luk.</hi> 24.25. <hi>Jude</hi> 25.</p>
+            <p n="134">134 That which men boaſt they do beleeve they beleeve leaſt, and what deſiring to be<g ref="char:EOLhyphen"/>leeve they ſeem not to beleeve, that uſually they do beleeve. <hi>John</hi> 16.30, 31, 32. <hi>Phil.</hi> 3.9, 10, 12, 13, 14.</p>
+            <p n="135">135 Truth may never ſtoop to reaſon, but reaſon muſt alwayes ſtoop to truth. <hi>Joh.</hi> 6.60, 61, 62. 2 <hi>Cor.</hi> 10.3, 4, 5.</p>
+            <p n="136">136 Truth is to be leſſened for no mans in<g ref="char:EOLhyphen"/>firmity, but mens faith is to be extended to Gods omnipotency. <hi>Mat.</hi> 19.23, 26. <hi>Gen.</hi> 18.14. <hi>Mar.</hi> 9.23, 24. <hi>Mar.</hi> 5.36.</p>
+            <p n="137">137 Truth is to be received for no mans Authority, but men are to be received for the Authority of Truth. <hi>Mat.</hi> 10.40. <hi>John</hi> 8.45, 46, 47. <hi>Gal.</hi> 1.8, 9. <hi>Judg.</hi> 3.20.</p>
+            <p n="138">138 To pervert truth willingly is devilliſh, but to ſtoope high thoughts to truth is divine. <hi>Mat.</hi> 4.6, 10. 2 <hi>Cor.</hi> 10.4, 5. <hi>Rom.</hi> 3.4.</p>
+            <p n="139">139 True faith preſerveth from all extreams of exaltation or dejection. 1 <hi>Cor.</hi> 8.1, 2. <hi>Rom.</hi> 3.27. <hi>Mat.</hi> 14.30, 31.</p>
+            <p n="140">140 True beleevers aſſembled in Chriſts
+<pb n="19" facs="tcp:119546:12"/>name have Chriſts Almighty preſence with them. <hi>Mat.</hi> 18.20. <hi>&amp;</hi> 28.20. 1 <hi>Cor.</hi> 5.4.</p>
+            <p n="141">141 Unbeleevers are not ſimply to be preſſed to duties, but firſt wiſely won to the faith. <hi>Pro.</hi> 15.8. <hi>Jo.</hi> 9.35. <hi>Act.</hi> 26.27. <hi>&amp;</hi> 16.31. 2 <hi>Cor.</hi> 5.11.</p>
+            <p n="142">142 Unbeleevers dying ſo, can expect no<g ref="char:EOLhyphen"/>thing but everlaſting fiery torments at the laſt day. <hi>Rev.</hi> 21.8. <hi>Luk.</hi> 12.46.</p>
+            <p n="143">143 Whatſoever is done, in or by any crea<g ref="char:EOLhyphen"/>tures ſeem it good or evil; it is Gods own work, done by him well. <hi>Eſa</hi> 45.8. <hi>Lam.</hi> 3.37. <hi>Amos</hi> 3.6. <hi>Pſal.</hi> 62.11.</p>
+            <p n="144">144 Whatſoever Chriſt was, did, ſuffered, is or ſhall be, it was and ſhall be for the good of beleevers. 1 <hi>Pet.</hi> 3.18. <hi>Joh.</hi> 1.1, 14. 1 <hi>Tim.</hi> 3.16. <hi>Eph.</hi> 1.19. 2 <hi>Theſ.</hi> 1.6, 7, 8, 9.</p>
+            <p n="145">145 Whatſoever blameleſneſſe beleevers at<g ref="char:EOLhyphen"/>taine, the more blameleſſe, the leſſe cenſorious they alwayes are. 1 <hi>Thoſ.</hi> 2.10. 1 <hi>Cor.</hi> 13.4, 7. 1 <hi>Pet.</hi> 4.8. <hi>Luk.</hi> 17.3, 4. <hi>Luk.</hi> 9.54, 55.</p>
+            <p n="146">146 Whatſoever beleeves are moſt ſure of, they do aske moſt confidently of God. <hi>Phil.</hi> 4.5, 6. <hi>Joh.</hi> 17.1, 4, 5, 24. 2 <hi>Cor.</hi> 5.6, 8.</p>
+            <p n="147">147 Whatſoever glory they loſt in <hi>Adam,</hi> the glory of beleevers doth ſurpaſſe it, for ex<g ref="char:EOLhyphen"/>cellency and eternity. <hi>Rom.</hi> 3.23. <hi>&amp;</hi> 5.15, 16, 21. 2 <hi>Cor.</hi> 4.17, 18.</p>
+            <p n="148">148 When God begins faith in any, he fi<g ref="char:EOLhyphen"/>niſheth it alwayes, with whatſoever is agree<g ref="char:EOLhyphen"/>able thereunto. <hi>Iſa.</hi> 42.16. <hi>Phil.</hi> 1.6.</p>
+            <pb n="20" facs="tcp:119546:13"/>
+            <p n="149">149 Where moſt unworthineſſe is appre<g ref="char:EOLhyphen"/>hended, there true worthines is moſt certainly attained. <hi>Mat.</hi> 8.8. <hi>&amp;</hi> 15.27. <hi>Gen.</hi> 18.27.</p>
+            <p n="150">150 Where Chriſt is moſt remembred, faith in Chriſt hath the greateſt increaſe in thoſe. <hi>Mat.</hi> 6.21. <hi>Col.</hi> 3.1, 2. <hi>Pſa.</hi> 119.11. <hi>Pſa.</hi> 10.4. 1 <hi>Cor.</hi> 15.3, 4.</p>
+            <p n="151">151 Whoſoever beleeveth that Jeſus is the Chriſt, that ſhould come in the fleſh, and is come according to the Scriptures, is a true be<g ref="char:EOLhyphen"/>leever. 1 <hi>Joh.</hi> 5.5. <hi>&amp;</hi> 4.2. 1 <hi>Cor.</hi> 15.3, 4.</p>
+            <p n="152">152 Whoſoever acknowledgeth Chriſt to be all for him to God; and to do all in him that is good, hath true faith. <hi>Job.</hi> 1.14, 16. 1 <hi>Cor.</hi> 1.30 1 <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 3.18. 2 <hi>Cor.</hi> 8.21.</p>
+            <p n="153">153 Whoſoever hath injoyed moſt means of ſalvation, and neglected or abuſed it, ſhall have the greateſt <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hare in torments. <hi>Lu.</hi> 12.47. <hi>Zeph.</hi> 1.14. <hi>Mat.</hi> 11.22, 23.</p>
+            <p n="154">154 Works can be no ſure ground of our own faith; ſeeing it is proper to faith to vilifie our b<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t perf<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mances. <hi>Iſa.</hi> 64.6. <hi>Job</hi> 4.6. <hi>Eze.</hi> 36.31. <hi>Phil.</hi> 3.8, 9.</p>
+            <p n="155">155 Wic<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d men underſtand no truth truly, onely beleevers do ſo underſtand it. 1 <hi>Cor.</hi> 2.9. <hi>Dan.</hi> 12.10. <hi>Mat.</hi> 13.11.</p>
+            <closer>Rectum eſt index ſui et obliqui, Soli Deo in Chriſto gloria,</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
